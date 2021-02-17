@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605897570 source:c:\users\fufu\desktop\poly\main.cpp
+	<stdio.h>
+	"PolyNode.h"
+	"Poly.h"
+
+1605806207 c:\users\fufu\desktop\poly\polynode.h
+
+1605806199 c:\users\fufu\desktop\poly\poly.h
+	"PolyNode.h"
+	<sstream>
+
+1605897632 source:c:\users\fufu\desktop\poly\poly.cpp
+	<stdio.h>
+	"Poly.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
